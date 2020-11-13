@@ -19,9 +19,9 @@ namespace Classi
             DataNascita = base.DataNascita;
         }
 
-        public void AddStudente(Studente stu)
+        public void AddStudente(Studente stud)
         {
-            Studenti.Add(stu);
+            Studenti.Add(stud);
         }
     }
 }
